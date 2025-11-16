@@ -1,6 +1,6 @@
 # EX:4 Attach Rifle with character mesh and implementation bullet spawn from Rifle
 
-## Name   : Dinagran Johny S
+## Name   : Dinagaran Johny S
 ## Reg No : 212223220020
 
 ### AIM
